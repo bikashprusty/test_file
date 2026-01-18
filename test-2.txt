@@ -1,1 +1,2 @@
 second test file
+New second test file
